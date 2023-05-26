@@ -1,0 +1,11 @@
+{
+  "browser": "chrome",
+  "isHeadless": true,
+  "browserStackEnabled": false,
+  "browserStackOS": "OS X",
+  "browserStackOSVersion": "Monterey",
+  "env": "stage",
+  "defaultElementTimeout": 10000,
+  "defaultPageLoadTimeout": 10000,
+  "defaultTestTimeout": 300000
+}
